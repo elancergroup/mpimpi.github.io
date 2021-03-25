@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="900" viewBox="-19930.362 -19930.362 55214.724 55214.724">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 1745.833px;
+        fill: #fff;
+        font-weight: 800;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: Lato;
+        text-transform: uppercase;
+      }
+
+      .cls-2 {
+        font-size: 54.167px;
+      }
+
+      .cls-2, .cls-3 {
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 366.667px;
+        fill: #aa3466;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect width="15354" height="15354"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <image id="statistics" x="1358" y="6308" width="4471" height="3929" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAABACAYAAABWfFoUAAADG0lEQVR4nO2bTahNURTHf/e6Ph/3+SgZeBiYK70ZSSlTyUSZy0dGKMoUA6VkYKTehIEMTJXIRGSAiJQoHuWby9Xjdt/V1qbXucc9a593ztlnn7d+k9tp73P22v/2XnevddapXRrd/QpYCbRQojSB8QYwbBuaKlEsw3WgV0LDykSvPtMVkKAiCVCRBKhIAlQkAY3SWziYC8BjYLGg7wQwBOwBFrgMErpIZ4E7Dv3nALtcRQp9u81y7F9PM2f1SQJC325RRoC1wA9gHvAOeDLdh1ZNpH3AkSnX14Et031o1bZbLnFo1X1SJqKp4xbg0ydtBO4CKwR93wLrgVsF2NWHT5HGgV/AS2F/k0Gd9LH6fW4317FN/1pOtiQOrAQkkgk8b9qg1fzuLYFNfyjTYXIDsGnKtfFZ5zza848yraRu5HrSkx19qE8SkGa7/QQuAm1grqB/ywad2zK3viDSiNSygeSEwz2jIYuUZrulSVy5JsdKhfokAVkdAUyya4kNM4yfegO8z9XyAslqJZ0HHtgs4H3gUBCzF5LXdvMSY+VFViJFk1uVqlRRxy1ARRKgIglII1KcUy7KUQeTdIs7cbtex90TPZUntUvGjXum85wlh8mHwAlbuWGqMj7HxG1n7IvAL8Ay4Fqk/TlwEOhYwzsxh80x4CnwCVgK3I60fwD226KHrv19FulzxQbeH629jyLtJjg/bJ/ftnM5CqwbJIApUf6aUHlrBt4+6CGBcxnYMWAKLcnSCzo4FZA4P4lI0Yxh1Uicn8Qnma8FNtt9XKVV1bX+bySpo0QkkzC7kY1dYaKHSQEqkgAVSYCKJEBFEqAiCfBWzhIQNXNO2mrLeTszXY0YZptgvhETbSsR1CcJUJEE+CziMi8wVws/tW/aAtRTBdjVhy+RzD/qAWCVwz2vgdM+Uje+tlsvxWS7vnJbPn2Sa7mft+RfXtttja3g/x7TZj6zmm9fKrgwZM907f/cuxC4B7zIejJ5ibQTOJnxM5cDVxP6HAOOZzxubtvNV8FEUJ9y+YoHcxk3r+329+Xlt4JWlRFnkWOxqwzgN9MHcPUigQ/DAAAAAElFTkSuQmCC"/>
+    <text id="MPIMPII" class="cls-1" x="6214.532" y="8297.778">MPIMPI<tspan class="cls-2">I</tspan></text>
+    <text id="PERFORMANCE_REPORTING_SYSTEM" data-name="PERFORMANCE REPORTING SYSTEM" class="cls-3" x="6325.756" y="8990.642">PERFORMANCE REPORTING SYSTEM</text>
+  </g>
+</svg>
